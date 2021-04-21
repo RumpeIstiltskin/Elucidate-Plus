@@ -14,4 +14,7 @@ For an example, some games use the video-adapter’s hardware overlay. This is a
 As a result, Windows API or external screen capturing methods do not have access to the rendered image, so the handler cannot capture it. The Steam Overlay having an internal nature bypasses this.
 
 ## Steam Overlay - Browser Implementation | Part I of II
-<a href="https://www.youtube.com/watch?v=RiF1632eTu4">Watch Video</a>
+<a href="https://www.youtube.com/watch?v=RiF1632eTu4">Watch Video (Part I)</a>
+
+## Stean Overlay - Chat Bot Implementation | Part II of II
+<a href="https://www.youtube.com/watch?v=5DJR1EOKm0w">Watch Video (Part II)</a>
