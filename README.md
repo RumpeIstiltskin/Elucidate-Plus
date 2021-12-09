@@ -1,5 +1,4 @@
 # Elucidate Plus | Proof of Concept | Last Updated: 19th April
-This update acts as a project announcement and briefly covers the core of Elucidate Plus. Details and explanations for each implementation will be in the next update, as a lot is still being finalised. 
 
 ## What is Elucidate Plus?
 Elucidate Plus is an in-game chat translator and communication software. It allows players to seamlessly translate in-game chat messages and type back in the language detected. The software itself is external but is mainly controlled through the Steam Overlay’s browser.
